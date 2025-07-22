@@ -23,7 +23,7 @@ This project is a **Flask-based web application** that uses **Face Recognition**
 
 ## 🛠️ Tech Stack
 
-* **Frontend:** HTML, CSS, Jinja2 (via Flask)
+* **Frontend:** HTML, CSS, Flask
 * **Backend:** Python (Flask)
 * **Face Detection:** MTCNN
 * **Face Recognition:** `face_recognition` library
@@ -144,14 +144,5 @@ Go to `/download_attendance_csv` to download the complete CSV file with timestam
 ## 👨‍💻 Author
 
 **Abhik Roy Chowdhury**
-[GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourprofile)
 
 ---
-
-## 📜 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-Let me know if you want me to create this file or include images/icons in it.
